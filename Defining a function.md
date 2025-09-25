@@ -1,1 +1,0 @@
-In order to proceed with the calculations, I will define a function `EOM(t, y)` that takes an array of times as `t` and an array of postions and velocities as `y` and returns an array of velocities and accelerations as defined above.
